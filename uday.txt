@@ -1,5 +1,5 @@
-<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my profile<!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <span> Welcome to my matrix! I am <span id="a">Uday Upreti </span></span>
 <span> I am a Developer|Data Scientist|Software Engineer|Researcher|Hackathon Enthusiast</span>
