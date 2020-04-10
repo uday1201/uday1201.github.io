@@ -13,7 +13,7 @@ I love to learn different technologies & solve interesting problems
 I have experience in <span id="a">Machine Learning(NLP), Data Modelling/Prediction, Full Stack Development, Product Development (AGILE/SCRUM) & Design Thinking</span>
 </span> 
 <span>I love <span id="a">Python</span> 🐍</span>
-<span>I speak <span id="a">Pandas</span>🐼 & think in <span id="a">Dataframes</span></span>
+<span>I speak <span id="a">Pandas</span> 🐼 & think in <span id="a">Dataframes</span></span>
 
 <span> Download my resume <a href="https://drive.google.com/file/d/1xoW7446OoBwoGxhD3js_NDWCe7bC8eul/view?usp=sharing" target="_blank">here</a></span>
 
@@ -25,7 +25,5 @@ If you are looking for someone like me or know any opportunities<!-- slightdelay
 
 <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <span> Here are few more places you can connect with me - <a href="https://github.com/uday1201" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/uday1201" target="_blank">LinkedIn</a>  
-
-<span>Ciao!</span>
 
 <span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
