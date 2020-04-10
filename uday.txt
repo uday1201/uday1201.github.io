@@ -18,7 +18,7 @@ I have experience in <span id="a">Machine Learning(NLP), Data Modelling/Predicti
 
 <span> Download my resume <a href="https://drive.google.com/file/d/1xoW7446OoBwoGxhD3js_NDWCe7bC8eul/view?usp=sharing" target="_blank">here</a></span>
 
-<span>I am crazy about hackathons & building stuff. Have won/participated in many national & international hackathons like <span id="a">Ultrahack</span>, <span id="a">Facebook F8</span> & <span id="a">Hack The North</span>
+<span>I am crazy about hackathons & building stuff and have won/participated in several national & international hackathons - for example, <span id="a">Ultrahack</span>, <span id="a">Facebook F8</span> & <span id="a">Hack The North</span>
 Here are some of my <a href="https://devpost.com/udapra" target="_blank">projects</a></span>
 
 I am <span id="a">looking for interesting roles & opportunites</span> relevant to my profile which gives me an opportunity to be involved in amazing projects
