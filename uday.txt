@@ -1,9 +1,8 @@
-Welcome to my matrix! I am Uday Upreti
-
 <span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my profile<!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my profile/introduction.txt
+<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><span> I am a Developer|Data Scientist|Software Engineer|Researcher|Hackathon Enthusiast</span>
+<span> Welcome to my matrix! I am <span id="a">Uday Upreti </span></span>
+<span> I am a Developer|Data Scientist|Software Engineer|Researcher|Hackathon Enthusiast</span>
 <br>
 My motto, "<span id="k">Find a problem->Think->Design->Code->Deploy->Solve</span>" <!-- sjkfhskjf -->
 
@@ -28,3 +27,5 @@ If you are looking for someone like me<!-- slightdelayhere-->, feel free to send
 <span> Here are few more places you can fine me on - <a href="https://github.com/uday1201" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/uday1201" target="_blank">LinkedIn</a>  
 
 <span>Ciao!</span>
+
+<span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
