@@ -2,14 +2,14 @@
 <span id="a">udayupreti@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <span> Welcome to my matrix! I am <span id="a">Uday Upreti </span></span>
-<span> I am a Developer|Data Scientist|Software Engineer|Researcher|Hackathon Enthusiast</span>
+<span> I am a Developer | Software Engineer | Data Scientist | Mentor | Hackathons</span>
 <br>
 My motto, "<span id="k">Find a problem->Think->Design->Code->Deploy->Solve</span>" <!-- sjkfhskjf -->
 
 <span>I have a bachelors in <span id="a">Computer Science</span> and masters in <span id="a">Statistics</span>
-<span>I am currently a Software Engineer @ <span id="a">Adobe</span>
+<span>I am currently a Software Engineer @ <span id="a">Adobe</span> and Mentor at <span id="a">Newton School</span>
 
-I love to learn different technologies & solve interesting problems
+I love to learn different technologies & solve interesting algorithms
 I have experience in <span id="a">Machine Learning(NLP), Data Modelling/Prediction, Full Stack Development, Product Development (AGILE/SCRUM) & Design Thinking</span>
 </span> 
 <span>I love <span id="a">Python</span> 🐍</span>
