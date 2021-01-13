@@ -15,7 +15,7 @@ I have experience in <span id="a">Machine Learning(NLP), Data Modelling/Predicti
 <span>I love <span id="a">Python</span> 🐍</span>
 <span>I speak <span id="a">Pandas</span> 🐼 & think in <span id="a">Dataframes</span></span>
 
-<span> Download my resume <a href="https://drive.google.com/file/d/1xoW7446OoBwoGxhD3js_NDWCe7bC8eul/view?usp=sharing" target="_blank">here</a></span>
+<span> Download my resume <a href="https://drive.google.com/file/d/1Fc3EVo0QTbEMzRBzvrnljgorMDk53zPj/view?usp=sharing" target="_blank">here</a></span>
 
 <span>I am crazy about hackathons & building stuff and have won/participated in several national & international hackathons - for example, <span id="a">Ultrahack</span>, <span id="a">Facebook F8</span> & <span id="a">Hack The North</span>
 Here are some of my <a href="https://devpost.com/udapra" target="_blank">projects</a></span>
